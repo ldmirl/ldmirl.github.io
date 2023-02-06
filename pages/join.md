@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Joining WhiRL
+### Joining LDMiRL
 
 * **Master's students:** If you want to do a thesis project in the lab, feel free to get in [contact](https://oxwhirl.github.io/pages/contact.html). We will do our best to find a suitable project within the lab. Unfortunately, we can only take a few students a year.
 
