@@ -2,15 +2,6 @@
 layout: default
 ---
 
-![Branching](/assets/img/whirl-1.jpg)
+<!-- ![Branching](/assets/img/whirl-1.jpg) ADD LAB PICTURE? -->
 
-WhiRL is a machine learning research group in the Department of Computer Science at the University of Oxford that is focused on reinforcement learning, deep learning, and related topics, with applications such as robotics and video games.
-
-### Latest News
-May 18, 2021: [4 Papers Accepted at ICML 2022 and CoLLAs 2022](/pages/news/20220518.html)  
-May 12, 2021: [1 Paper Accepted to JMLR](/pages/news/20220512.html)  
-Dec 19, 2021: [1 Paper Accepted at AAMAS 2022](/pages/news/20211219.html)  
-Dec 01, 2021: [2 Papers Accepted at AAAI 2022](/pages/news/20211201.html)  
-Sept 29, 2021: [4 Papers Accepted at NeurIPS 2021](/pages/news/20210929.html)  
-May 08, 2021: [6 Papers Accepted at ICML 2021](/pages/news/20210508.html)  
-Feb 27, 2021: [4 Papers Accepted at ICLR 2021 and AAAI 2021](/pages/news/20210227.html)  
+The Loughborough De-Silva Machine Intelligence Lab (LDMIRL) is a research group within the Institute of Digital Technologies at Loughborough University London that focuses on artificial intelligence challenges relating to sports analytics, driverless vehicle control, data-driven cognitive approaches, and fundamental theoretical developments. LDMRL is involved in sports research developing player performance prediction, imitation learning of football players through modeling, computer vision approaches for sports analytics, coaching, and its use of virtual reality and augmented reality equipment for visual analytics, all supported in collaboration with Chelsea Football Club. Driverless vehicle control involves various aspects of sensor processing of an in-house built quadbike, including but not limited to the fusion of its LiDAR, Imaging, and Radar technologies. Fundamental theoretical research concentrates primarily on multi-agent sequential decision-making systems tackling its marriage with human-domain knowledge and scaling state-of-the-art approaches to real-world engineering systems. LDMIRL is supported by state-of-the-art simulation systems worthy of industry-grade performance, enabling research in applications such as team sports analytics, data-driven ghosting, vehicular traffic control, simulation-to-reality, body-pose estimation, human activity, and scene recognition.

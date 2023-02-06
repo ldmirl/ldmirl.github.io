@@ -14,7 +14,7 @@ github:
   source:
     branch: "master"
     path: "/"
-  repository_url: "https://github.com/oxwhirl/oxwhirl.github.io"
+  repository_url: "https://github.com/ldmirl/ldmirl.github.io"
   
-title: Whiteson Research Lab 
-description: University of Oxford 
+title: De-Silva Machine Intelligence Lab 
+description: Loughborough University London
