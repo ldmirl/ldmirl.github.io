@@ -1,4 +1,6 @@
-This repo is the source code for [https://oxwhirl.github.io/](https://oxwhirl.github.io/).
+# ldmirl.github.io
+
+<!-- This repo is the source code for [https://oxwhirl.github.io/](https://oxwhirl.github.io/).
 
 Everyone in the [whirl team](https://github.com/orgs/oxwhirl/teams/whirl) has the write access so you can update the markdown files to update the website.
 All markdown files are stored in the ```pages``` folder except for the ```index.md```.
@@ -19,5 +21,5 @@ Clicking `Improve this page` at the right down corner of each page will immediat
 ```bundle exec jekyll serve --force_polling -H 0.0.0.0 -P 4000```  
 
 Now the website should be alive at [http://0.0.0.0:4000](http://0.0.0.0:4000).  
-If you want to use css, put it in ```assets/css/style.scss```. See the [primer theme](https://github.com/pages-themes/primer) for more details.
+If you want to use css, put it in ```assets/css/style.scss```. See the [primer theme](https://github.com/pages-themes/primer) for more details. -->
 
