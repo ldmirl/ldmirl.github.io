@@ -2,5 +2,5 @@
 layout: default
 ---
 
-<img src="/assets/img/ben.png" alt="drawing" class="portrait"/>
+<img src="/assets/img/placeholder.jpg" alt="drawing" class="portrait"/>
 
